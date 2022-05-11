@@ -1,1 +1,1 @@
-MMORPG style FPS movement
+MMORPG FPS style movement
