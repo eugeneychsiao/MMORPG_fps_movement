@@ -1,4 +1,4 @@
-# MMORPG FPS style movement
+# MMORPG/FPS style movement
 
 Implementation of a standard FPS style movement system using OpenGL, glad, SDL2.
 
